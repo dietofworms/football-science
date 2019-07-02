@@ -1,3 +1,6 @@
+# Name: Pitch.py
+# Desc: Plots a football pitch when called.
+
 import json
 import matplotlib as plt; plt.rcdefaults()
 import matplotlib.pyplot as plt
